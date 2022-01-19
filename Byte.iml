@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <content url="file://G:/">
+      <sourceFolder url="file://G:/.Trashes/505/Projekt/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/BarChart" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/DrawTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/ArcTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/CardTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/Stylepad/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/SimpleGraph" isTestSource="false" />
+      <sourceFolder url="file://G:/MyProject/ByteCode_JavaProjekt_2" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/DitherTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/SpreadSheet" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/SampleTree/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/JumpingBox" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/Stylepad/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/DrawTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/Metalworks/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/WireFrame" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/TicTacToe" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/ArcTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/TableExample/src" isTestSource="false" />
+      <sourceFolder url="file://G:/Referendardb/build/generated/java" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/Clock" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/FileChooserDemo/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/Font2DTest/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/Animator" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/MoleculeViewer" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/Clock" isTestSource="false" />
+      <sourceFolder url="file://G:/OMOWUNMI/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/SimpleGraph" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/SpreadSheet" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/ImageMap" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/GraphLayout" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/ImageMap" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/Font2DTest/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/FileChooserDemo/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/Notepad/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/SwingSet2/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/Animator" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/JumpingBox" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/SwingSet2/src" isTestSource="false" />
+      <sourceFolder url="file://G:/Referendardb/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/NervousText" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/DitherTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/SortDemo" isTestSource="false" />
+      <sourceFolder url="file://G:/MyProject/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/GraphicsTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/SortDemo" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/SampleTree/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/TableExample/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/NervousText" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/WireFrame" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/SymbolTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/SwingApplet/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/SymbolTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/Fractal" isTestSource="false" />
+      <sourceFolder url="file://G:/.Trashes/505/Projekt/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/Fractal" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/TicTacToe" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/Notepad/src" isTestSource="false" />
+      <sourceFolder url="file://G:/Referendardb/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/SwingApplet/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/Blink" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/Blink" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/BarChart" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/jfc/Java2D/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/Java2D/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/jfc/Metalworks/src" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/GraphicsTest" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/GraphLayout" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/applets/MoleculeViewer" isTestSource="false" />
+      <sourceFolder url="file://G:/j2sdk1.4.1_04/demo/plugin/applets/CardTest" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
